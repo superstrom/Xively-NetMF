@@ -8,7 +8,7 @@ namespace XivelyConsole
         {
             var feedId = 68475;
 
-            var xively = new XivelyClient(apiKey: @"JOekASSXij4sK2phrkdnv7DIeYKSAKxRK2luM1pteDcyOD0g");
+            var xively = new XivelyClient(apiKey: @"YOUR_KEY_HERE");
 
             xively.SetFeedLocation(feedId, lat: 38.90, lon: -77.26);
 
