@@ -34,10 +34,6 @@
     <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.SPOT.Native">
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\Xively\Xively-netmf42.csproj">
       <Project>{849485E9-B1B9-4763-86EB-F9E664D4E916}</Project>
       <Name>Xively-netmf42</Name>

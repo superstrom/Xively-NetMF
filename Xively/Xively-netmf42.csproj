@@ -35,8 +35,6 @@
     <Compile Include="XivelyClient.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.SPOT.Native">
-    </Reference>
     <Reference Include="System" />
   </ItemGroup>
 </Project>
