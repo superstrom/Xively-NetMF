@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Xively-NetMF</id>
+    <version>1.0.0</version>
+    <title />
+    <authors>superstrom</authors>
+    <owners />
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Client for pushing to Xively</description>
+  </metadata>
+  <files>
+    <file src="Xively\bin\netmf41\Debug\Xively.dll" target="lib\netmf41\Xively.dll" />
+    <file src="Xively\bin\netmf41\Debug\Xively.pdb" target="lib\netmf41\Xively.pdb" />
+    <file src="Xively\bin\netmf42\Debug\Xively.dll" target="lib\netmf42\Xively.dll" />
+    <file src="Xively\bin\netmf42\Debug\Xively.pdb" target="lib\netmf42\Xively.pdb" />
+  </files>
+</package>
