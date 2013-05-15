@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xively-netmf42", "Xively\Xively-netmf42.csproj", "{849485E9-B1B9-4763-86EB-F9E664D4E916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XivelyConsole-netmf42", "XivelyConsole\XivelyConsole-netmf42.csproj", "{42F6D2E0-2790-4C94-BD71-3C0EFDA8811E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849485E9-B1B9-4763-86EB-F9E664D4E916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849485E9-B1B9-4763-86EB-F9E664D4E916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849485E9-B1B9-4763-86EB-F9E664D4E916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849485E9-B1B9-4763-86EB-F9E664D4E916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F6D2E0-2790-4C94-BD71-3C0EFDA8811E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F6D2E0-2790-4C94-BD71-3C0EFDA8811E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F6D2E0-2790-4C94-BD71-3C0EFDA8811E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{42F6D2E0-2790-4C94-BD71-3C0EFDA8811E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F6D2E0-2790-4C94-BD71-3C0EFDA8811E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F6D2E0-2790-4C94-BD71-3C0EFDA8811E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
